@@ -2,7 +2,7 @@
 
 📚 ***Studente di informatica presso L'Università di Napoli Federico II***
 
->*C'è sempre dignità da perdere*
+>*Rock 'n Roll, sempre 🤙🏻*
 
 Contatti:
 E-mail: <mario.penna@studenti.unina.it> <br />
