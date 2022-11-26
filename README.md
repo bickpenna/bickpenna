@@ -5,7 +5,7 @@
 >*C'è sempre dignità da perdere*
 
 Contatti:
-E-mail: <mario.penna@studenti.unina.it>
+E-mail: <mario.penna@studenti.unina.it> <br />
 Instagram: *[@bickpenna](https://www.instagram.com/bickpenna/)*
 
 
