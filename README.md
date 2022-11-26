@@ -7,6 +7,7 @@
 Contatti: <br />
 E-mail: <mario.penna@studenti.unina.it> <br />
 Instagram: *[@bickpenna](https://www.instagram.com/bickpenna/)*
+Twitter: *[@bickpenna](https://twitter.com/bickpenna)*
 
 
 <!--
