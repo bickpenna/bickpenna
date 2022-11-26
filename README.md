@@ -1,4 +1,13 @@
-# Mario Pena
+# Mario Penna
+
+📚 ***Studente di informatica presso L'Università di Napoli Federico II***
+
+>*C'è sempre dignità da perdere*
+
+Contatti:
+E-mail: <mario.penna@studenti.unina.it>
+Instagram: *[@bickpenna](https://www.instagram.com/bickpenna/)*
+
 
 <!--
 **bickpenna/bickpenna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
