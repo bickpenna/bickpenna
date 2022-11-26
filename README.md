@@ -1,4 +1,4 @@
-### Mario Pena
+# Mario Pena
 
 <!--
 **bickpenna/bickpenna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
