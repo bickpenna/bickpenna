@@ -1,10 +1,13 @@
-# Mario Penna
+# Hi there, I'm Mario Penna 🐧
 
-📚 ***Studente di informatica presso L'Università di Napoli Federico II***
+📚 **Computer Science Student** @ *Università degli Studi di Napoli Federico II*  
+📍 Naples, Italy
 
->*Don't be evil. For real though.*
+> *"Don't be evil. For real though."*
 
-Contatti: <br />
-E-mail: <mario.penna@studenti.unina.it> <br />
-Instagram: *[@bickpenna](https://www.instagram.com/bickpenna/)* <br />
-X: *[@bickpenna](https://x.com/bickpenna)*
+---
+
+### 📫 Connect With Me
+* **Email:** [mario.penna@studenti.unina.it](mailto:mario.penna@studenti.unina.it)
+* **Instagram:** [@bickpenna](https://www.instagram.com/bickpenna/)
+* **X:** [@bickpenna](https://x.com/bickpenna)
