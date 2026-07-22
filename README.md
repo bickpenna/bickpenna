@@ -1,9 +1,10 @@
-# Hi there, I'm Mario Penna 🐧
-
-📚 **Computer Science Student** @ *Università degli Studi di Napoli Federico II*  
-📍 Naples, Italy
+## Hi there, I'm Mario Penna 🐧
 
 > *"Don't be evil. For real though."*
+
+### 👨‍💻 About Me
+📚 **Computer Science Student** *@Università degli Studi di Napoli Federico II*  
+📍 Naples, Italy
 
 ---
 
