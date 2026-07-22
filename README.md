@@ -2,7 +2,7 @@
 
 📚 ***Studente di informatica presso L'Università di Napoli Federico II***
 
->*Rock 'n Roll, sempre 🤙🏻*
+>*Don't be evil. For real though.*
 
 Contatti: <br />
 E-mail: <mario.penna@studenti.unina.it> <br />
